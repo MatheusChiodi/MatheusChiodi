@@ -1,6 +1,6 @@
 ## Olá! Eu sou Matheus Chiodi 👋
 
-> "Olá, sou um programador com mais de 2 anos de experiência. Tenho habilidades sólidas em PHP, Codeigniter, MySQL, HTML, CSS e JavaScript. Atualmente, estou focado em aprimorar minhas habilidades na área de Front-end por meio do estudo de ReactJS e React Native. Como um entusiasta da tecnologia, meu principal objetivo é encontrar uma oportunidade que me permita demonstrar, por meio do meu desempenho, o conhecimento que adquiri ao longo dos anos."
+> "Olá, sou um programador Fullstack com mais de 2 anos de experiência. Tenho habilidades sólidas em PHP, Codeigniter, MySQL, HTML, CSS e JavaScript. Atualmente, estou focado em aprimorar minhas habilidades na área de Front-end por meio do estudo de ReactJS e React Native. Como um entusiasta da tecnologia, meu principal objetivo é encontrar uma oportunidade que me permita demonstrar, por meio do meu desempenho, o conhecimento que adquiri ao longo dos anos."
 
 ### 📊 Estatísticas do GitHub
 
