@@ -1,6 +1,6 @@
 ## Hello! I am Matheus Chiodi 👋
 
-> "Hi, I'm a Fullstack programmer with 2+ years of experience. I have solid skills in PHP, Codeigniter, MySQL, HTML, CSS and JavaScript. Currently, I'm focused on improving my skills in the Front-end area by studying ReactJS and React Native. As a technology enthusiast, my main goal is to find an opportunity that allows me to demonstrate, through my performance, the knowledge I have acquired over the years."
+> "Hi, I'm a Fullstack programmer with 3+ years of experience. I have solid skills in PHP, Codeigniter, MySQL, HTML, CSS and JavaScript. Currently, I'm focused on improving my skills in the Front-end area by studying ReactJS and React Native. As a technology enthusiast, my main goal is to find an opportunity that allows me to demonstrate, through my performance, the knowledge I have acquired over the years."
 
 ### 🔧 Solid skills
 [<img height="48px" width="48px" title="Html" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
