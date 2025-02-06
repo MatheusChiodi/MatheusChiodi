@@ -1,6 +1,6 @@
 ## Hello! I am Matheus Chiodi 👋
 
-> "Hi, I'm a Fullstack programmer with 3+ years of experience. I have solid skills in PHP, Codeigniter, MySQL, HTML, CSS and JavaScript. Currently, I'm focused on improving my skills in the Front-end area by studying ReactJS and React Native. As a technology enthusiast, my main goal is to find an opportunity that allows me to demonstrate, through my performance, the knowledge I have acquired over the years."
+> "Full Stack Developer passionate about technology, with solid experience in web and mobile development. I have expertise in JavaScript, TypeScript, React.js, Next.js, React Native, and Node.js, along with knowledge in PHP, CodeIgniter 3, SQL, Ajax, JQuery, HTML, and CSS. I specialize in developing scalable solutions, API integration, and performance optimization, with a strong focus on usability and user experience."
 
 ### 🔧 Solid skills
 [<img height="48px" width="48px" title="Html" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -8,7 +8,8 @@
 [<img height="48px" width="48px" title="Java Script" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" title="Php" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
 [<img height="48px" width="48px" title="MySql" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-[<img height="48px" width="48px" title="CodeIgniter" alt="Icone CodeIgniter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg"/>]([https://www.php.net/](https://codeigniter.com/))
+[<img height="48px" width="48px" 
+title="CodeIgniter" alt="Icone CodeIgniter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg"/>]([https://www.php.net/](https://codeigniter.com/))
 
 ##
 
