@@ -33,7 +33,6 @@ title="CodeIgniter" alt="Icone CodeIgniter" src="https://raw.githubusercontent.c
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusChiodi&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=MatheusChiodi&show_icons=true&include_all_commits=true&theme=dracula"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=MatheusChiodi&amp;theme=dracula">
 </div>
 
 
