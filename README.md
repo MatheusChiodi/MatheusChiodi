@@ -8,7 +8,7 @@
 
 **Full Stack & Mobile Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&repeat=true&width=435&lines=7%2B+Apps+on+Google+Play+Store;30%2B+Projects+Delivered;React+Native+%7C+React.js+%7C+Vue.js+%7C+Angular)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&repeat=true&width=435&lines=7%2B+Apps+on+Google+Play+Store;30%2B+Projects+Delivered;React+%7C+Angular+%7C+Node+%7C+Java)](https://git.io/typing-svg)
 
 <br/>
 
